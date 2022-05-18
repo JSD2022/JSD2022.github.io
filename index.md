@@ -1,4 +1,6 @@
-# Introduction
+## Journées Scientifiques des Doctorants SPI 2022
+
+## Introduction
 This annual meeting is an opportunity to discover the various thesis topics within our doctoral school, to exchange with other PhD students working on the same topics as you (or topics that arouse your curiosity) and, perhaps, to lead to collaborations and/or friendships. Several speakers will be invited during these two days: some of them will present the possible career perspectives after a PhD. We will reveal more about the program when it is finalized!The participation of Ph.D students to these days is mandatory: it is part of the requirements for obtaining your doctoral degree. 
 
 ## Pre-register
