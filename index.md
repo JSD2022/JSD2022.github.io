@@ -1,15 +1,11 @@
 # Welcome to Journées Scientifiques des Doctorants SPI
+This annual meeting is an opportunity to discover the various thesis topics within our doctoral school, to exchange with other PhD students working on the same topics as you (or topics that arouse your curiosity) and, perhaps, to lead to collaborations and/or friendships. Several speakers will be invited during these two days: some of them will present the possible career perspectives after a PhD. We will reveal more about the program when it is finalized!The participation of Ph.D students to these days is mandatory: it is part of the requirements for obtaining your doctoral degree. 
 
-You can use the [editor on GitHub](https://github.com/JSD2022/JSD2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Pre-register
+To do so, we invite you to fill in the following form as soon as possible (estimated time: 2 minutes): [Survey](https://framaforms.org/participation-aux-journees-scientifiques-des-doctorants-1652653658 )
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+## Poster
+You will also have to make a poster which presents your thesis subject and send it to us before June 6, as well as a single slide before June 17  You will find attached the templates (pptx and latex) to create your poster and some examples at this [website]( https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi) (click on the arrows to view all the posters for a given year).
 
 ## Support or Contact
 
