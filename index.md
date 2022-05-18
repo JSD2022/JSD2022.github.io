@@ -1,4 +1,6 @@
-## Journées Scientifiques des Doctorants SPI 2022
+## Journées Scientifiques des Doctorants SPI 2022 
+
+[Image]([https://github.com/JSD2022/JSD2022.github.io/blob/gh-pages/INP.JPG])
 
 ## Introduction
 This annual meeting is an opportunity to discover the various thesis topics within our doctoral school, to exchange with other PhD students working on the same topics as you (or topics that arouse your curiosity) and, perhaps, to lead to collaborations and/or friendships. Several speakers will be invited during these two days: some of them will present the possible career perspectives after a PhD. We will reveal more about the program when it is finalized!The participation of Ph.D students to these days is mandatory: it is part of the requirements for obtaining your doctoral degree. 
@@ -31,11 +33,10 @@ It is strongly recommended to come in person to make your presentation and discu
 However, the doctoral school does not finance transportation and accommodation costs (unless you are based abroad, in which case you should contact us).
 
 5.**I am in my first year and I do not have any results. Can I still participate?**
-Absolutely, we even recommend participating in the first year. Remember that one of the goals of the Scientific Days is to have an overview of the thesis topics within the doctoral school to encourage exchange. You can find examples at the following link to help you make your poster: https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi 
+Absolutely, we even recommend participating in the first year. Remember that one of the goals of the Scientific Days is to have an overview of the thesis topics within the doctoral school to encourage exchange. You can find examples at the following link to help you make your [Poster] ](https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi)
 
 6.**Will there be prizes?**
 
 
 
-![Image]([https://github.com/JSD2022/JSD2022.github.io/blob/gh-pages/INP.JPG])
 
