@@ -2,13 +2,28 @@
 
 <img align="center" width="531" height="470" src="INP.JPG">
 
-Welcome to Journées Scientifiques des Doctorants SPI 2022. This annual meeting is an opportunity to discover the various thesis topics within our doctoral school, to exchange with other PhD students working on the same topics as you (or topics that arouse your curiosity) and, perhaps, to lead to collaborations and/or friendships. Several speakers will be invited during these two days: some of them will present the possible career perspectives after a PhD. We will reveal more about the program when it is finalized!The participation of Ph.D students to these days is mandatory: it is part of the requirements for obtaining your doctoral degree. 
+Welcome to Journées Scientifiques des Doctorants SPI 2022. This annual meeting is an opportunity to discover the various thesis topics within our doctoral school, to exchange with other PhD students working on the same topics as you (or topics that arouse your curiosity) and, perhaps, to lead to collaborations and/or friendships. Several speakers will be invited during these two days: some of them will present the possible career perspectives after a PhD. We will reveal more about the program soon! The participation of Ph.D students to these two days is mandatory. It is part of the requirement for obtaining your doctoral degree. 
 
-## Pre-register
-To do so, we invite you to fill in the following form as soon as possible (estimated time: 2 minutes): [Survey](https://framaforms.org/participation-aux-journees-scientifiques-des-doctorants-1652653658)
+## Pre-Register
+We are inviting you to complete the [survey](https://framaforms.org/participation-aux-journees-scientifiques-des-doctorants-1652653658)
+as soon as possible (estimated time: 2 minutes) for the pre-registration process. 
 
 ## Poster
+
+### Poster printing
+We are in charge of printing the posters. The poster must be sent to us **before June 6th**, otherwise you will have to print the poster at your own expense. You may or may not use the [template]() that were provided in the original email but the format must be **A0**.
+
+
 You will also have to make a poster which presents your thesis subject and send it to us before June 6, as well as a single slide before June 17  You will find attached the templates (pptx and latex) to create your poster and some examples at this [website]( https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi) (click on the arrows to view all the posters for a given year).
+
+Mandatory elements on the poster
+The poster must indicate the funding organization and the mention "Ecole Doctorale des Sciences pour l'Ingénieur". The logo of Clermont Auvergne INP UCA must also appear (see attachment).
+
+Where to submit the documents
+We have created a link where you can submit your posters and presentations: https://drive.uca.fr/u/d/165f51bbf9ec46308243/. We ask you to respect the following nomenclature: pos_LASTNAME_firstname.pdf for the poster and pres_LASTNAME_firstname.pdf for the presentation.
+
+Poster printing
+We are in charge of printing the posters: the poster must be sent to us before June 6th, otherwise you will have to print the poster at your own expense. You may or may not use the templates that were provided in the original email, the only condition being that the format is A0.
 
 ## Prize???
 
@@ -42,14 +57,7 @@ Absolutely, we even recommend participating in the first year. Remember that one
 
 Many of you have asked us questions about the Scientific Days! Here are some information to complete the original mail:
 
-Mandatory elements on the poster
-The poster must indicate the funding organization and the mention "Ecole Doctorale des Sciences pour l'Ingénieur". The logo of Clermont Auvergne INP UCA must also appear (see attachment).
 
-Where to submit the documents
-We have created a link where you can submit your posters and presentations: https://drive.uca.fr/u/d/165f51bbf9ec46308243/. We ask you to respect the following nomenclature: pos_LASTNAME_firstname.pdf for the poster and pres_LASTNAME_firstname.pdf for the presentation.
-
-Poster printing
-We are in charge of printing the posters: the poster must be sent to us before June 6th, otherwise you will have to print the poster at your own expense. You may or may not use the templates that were provided in the original email, the only condition being that the format is A0.
 
 Website
 We have created a website where you will find all the important information about the Scientific Days for PhD students: https://jsd2022.github.io/.
