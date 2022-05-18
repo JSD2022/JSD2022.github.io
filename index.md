@@ -11,7 +11,7 @@ as soon as possible (estimated time: 2 minutes) for the pre-registration process
 ## Poster
 
 ### Poster printing
-We are in charge of printing the posters. The poster must be sent to us **before June 6th**, otherwise you will have to print the poster at your own expense. You may or may not use the [template in latex](A0_Vertical_Template-latex.zip) and [template in PowerPoint](https://github.com/JSD2022/JSD2022.github.io/blob/gh-pages/A0_Vertical_Template.pptx) in that were provided in the original email but the format must be **A0**.
+We are in charge of printing the posters. The poster must be sent to us **before June 6th**, otherwise you will have to print the poster at your own expense. You may or may not use the [template in latex](A0_Vertical_Template-latex.zip) and [template in PowerPoint](A0_Vertical_Template.pptx) in that were provided in the original email but the format must be **A0**.
 
 
 You will also have to make a poster which presents your thesis subject and send it to us before June 6, as well as a single slide before June 17  You will find attached the templates (pptx and latex) to create your poster and some examples at this [website]( https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi) (click on the arrows to view all the posters for a given year).
