@@ -1,4 +1,4 @@
-## Journées Scientifiques des Doctorants SPI 2022 
+# Journées Scientifiques des Doctorants SPI 2022 
 
 ![Image](https://github.com/JSD2022/JSD2022.github.io/blob/gh-pages/INP.JPG)
 
@@ -11,7 +11,7 @@ To do so, we invite you to fill in the following form as soon as possible (estim
 ## Poster
 You will also have to make a poster which presents your thesis subject and send it to us before June 6, as well as a single slide before June 17  You will find attached the templates (pptx and latex) to create your poster and some examples at this [website]( https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi) (click on the arrows to view all the posters for a given year).
 
-## Prize
+## Prize???
 
 ## Support or Contact
 
