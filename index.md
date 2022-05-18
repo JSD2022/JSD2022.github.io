@@ -29,6 +29,14 @@ The best poster and the best presentation. To be eligible for the best presentat
 ### Contact
 jsd-edspi.dred@uca.fr
 
+### Organisers (Alphabetical Order Name)
+
+- Frédéric A. HAYEK(Ph.D in cybersercurity from LIMOS)
+- Guillaume FOIN(Ph.D in energy)
+- Hélène Tran (Ph.D. in AI from LIMOS)
+- Ivan Luca BRAN COSTA(Ph.D in information from Institute Pascal)
+- Mincui LIANG (Ph.D. in power electronic from Institute Pascal)
+
 ### FAQ
 
 **1.Can I make many slides for the presentation?**
