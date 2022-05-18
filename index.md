@@ -21,7 +21,7 @@ The poster must indicate **your funding organization** and mention **"Ecole Doct
 
 ### Upload poster
 
-You need to upload your posters before the 6th of June and presentations before the 17th of June [here](https://drive.uca.fr/u/d/165f51bbf9ec46308243/). Please respect the following nomenclature **pos_LASTNAME_firstname.pdf** for the poster and **pres_LASTNAME_firstname.pdf** for the presentation.
+You need to upload your posters before the 6th of June and presentations before the 17th of June from [here](https://drive.uca.fr/u/d/165f51bbf9ec46308243/). Please respect the following nomenclature **pos_LASTNAME_firstname.pdf** for the poster and **pres_LASTNAME_firstname.pdf** for the presentation.
 
 
 ## Prize
@@ -54,11 +54,11 @@ It is strongly recommended to come in person to make your presentation and discu
 
 **3.I am in my first year and I do not have any results. Can I still participate?**
 
-Absolutely, we even recommend participating in the first year. Remember that one of the goals of the Scientific Days is to have an overview of the thesis topics within the doctoral school to encourage exchange. You can find examples at the following link to help you make your [Poster](https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi)
+Absolutely, we even recommend participating in the first year. Remember that one of the goals of the Scientific Days is to have an overview of the thesis topics within the doctoral school to encourage exchange. You can find examples at the following link to help you make your [poster](https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi).
 
 **4.Will there be prizes?**
 
-Yes! We are planning to give prizes for the best poster and the best presentation. To be eligible for the best presentation prize, you must not exceed 3 minute presentation ;)
+Yes! We are planning to give prizes for the best poster and the best presentation. To be eligible for the best presentation prize, you must not exceed 3 minute presentation.
 
 
 
