@@ -36,6 +36,6 @@ Absolutely, we even recommend participating in the first year. Remember that one
 [Image](src)
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+![Image]([src](https://github.com/JSD2022/JSD2022.github.io/blob/gh-pages/INP.JPG))
 ```
 
