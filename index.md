@@ -21,7 +21,7 @@ The poster must indicate **your funding organization** and mention **"Ecole Doct
 
 ### Upload poster
 
-You need to upload your posters before the 6th of June and presentations before the 17th of June from [here](https://drive.uca.fr/u/d/165f51bbf9ec46308243/). Please respect the following nomenclature **pos_LASTNAME_firstname.pdf** for the poster and **pres_LASTNAME_firstname.pdf** for the presentation.
+You need to upload your posters before the 6th of June and presentations before the 17th of June from [here](https://drive.uca.fr/u/d/165f51bbf9ec46308243/). The password is in the email we sent you. Please respect the following nomenclature **pos_LASTNAME_firstname.pdf** for the poster and **pres_LASTNAME_firstname.pdf** for the presentation.
 
 
 ## Prize
