@@ -1,3 +1,5 @@
+# Journées Scientifiques des Doctorants SPI 2022
+
 <img align="center" src="logo_spi.png">
 
 Welcome to Journées Scientifiques des Doctorants SPI 2022! This annual meeting is an opportunity to discover the various thesis topics within our doctoral school, to exchange with other PhD students working on the same topics as you (or topics that arouse your curiosity) and, perhaps, to lead to collaborations and/or friendships. Several speakers will be invited during these two days: some of them will present the possible career perspectives after a PhD. We will reveal more about the program soon! 
@@ -31,12 +33,7 @@ Deadlines:
 We are in charge of printing the posters. The poster must be sent to us before the deadline, otherwise you will have to print the poster at your own expense. You may or may not use the [template in latex](A0_Vertical_Template-latex.zip) and [template in PowerPoint](A0_Vertical_Template.pptx) but the format must be **A0**. Here are some examples of the poster at this [website](https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi).
 
 
-## Prize
-
-The best poster and the best presentation. To be eligible for the best presentation prize, your presentation must not exceed 3 minutes. 
-
-
-### FAQ
+## FAQ
 
 **1. Can I make many slides for the presentation?**
 
