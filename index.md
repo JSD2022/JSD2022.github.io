@@ -64,10 +64,10 @@ jsd-edspi.dred@uca.fr
 
 ### Organisers (Alphabetical Order Name)
 
-- Frédéric A. HAYEK (Ph.D. candidate in Cryptology from LIMOS)
-- Guillaume FOIN (Ph.D. candidate in Energy from Institut Pascal)
-- Hélène TRAN (Ph.D. candidate in Artificial Intelligence from LIMOS)
-- Ivan Luca BRAN COSTA (Ph.D. candidate in Information from Institut Pascal)
-- Mincui LIANG (Ph.D. candidatein Power Electronic from Institut Pascal)
+- Frédéric A. HAYEK (Ph.D candidate in Cryptology from LIMOS)
+- Guillaume FOIN (Ph.D candidate in Energy from Institut Pascal)
+- Hélène TRAN (Ph.D candidate in Artificial Intelligence from LIMOS)
+- Ivan Luca BRAN COSTA (Ph.D candidate in Information from Institut Pascal)
+- Mincui LIANG (Ph.D candidatein Power Electronic from Institut Pascal)
 
 
