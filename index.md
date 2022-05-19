@@ -2,14 +2,9 @@
 
 <img align="center" width="1000" height="276" src="logo_spi.png">
 
-Welcome to Journées Scientifiques des Doctorants SPI 2022. This annual meeting is an opportunity to discover the various thesis topics within our doctoral school, to exchange with other PhD students working on the same topics as you (or topics that arouse your curiosity) and, perhaps, to lead to collaborations and/or friendships. Several speakers will be invited during these two days: some of them will present the possible career perspectives after a PhD. We will reveal more about the program soon! The participation of Ph.D students to these two days is mandatory. It is part of the requirement for obtaining your doctoral degree. 
+Welcome to Journées Scientifiques des Doctorants SPI 2022. This annual meeting is an opportunity to discover the various thesis topics within our doctoral school, to exchange with other PhD students working on the same topics as you (or topics that arouse your curiosity) and, perhaps, to lead to collaborations and/or friendships. Several speakers will be invited during these two days: some of them will present the possible career perspectives after a PhD. We will reveal more about the program soon! The participation of Ph.D students to these two days is mandatory. It is part of the requirement for obtaining your doctoral degree. Note that attending the Scientific Days at least one time is part of the requirement for obtaining your doctoral degree. We strongly encourage you to come to meet the other PhD students and have a broad overview of the research topics within the doctoral school!
 
-## Pre-Register
-
-We are inviting you to complete the [survey](https://framaforms.org/participation-aux-journees-scientifiques-des-doctorants-1652653658)
-as soon as possible (estimated time: 2 minutes) for the pre-registration process. 
-
-## Poster
+## Poster requirements
 
 ### Poster preparation
 
@@ -19,9 +14,19 @@ We are in charge of printing the posters. The poster must be sent to us **before
 
 The poster must indicate **your funding organization** and mention **"Ecole Doctorale des Sciences pour l'Ingénieur"**. The [logo](INP.JPG) of Clermont Auvergne INP UCA must also appear in your poster.
 
-### Upload poster
+### Poster submission
 
-You need to upload your posters before the 6th of June and presentations before the 17th of June from [here](https://drive.uca.fr/u/d/165f51bbf9ec46308243/). The password is in the email we sent you. Please respect the following nomenclature **pos_LASTNAME_firstname.pdf** for the poster and **pres_LASTNAME_firstname.pdf** for the presentation.
+You need to upload your posters before **the 6th of June** [here](https://drive.uca.fr/u/d/165f51bbf9ec46308243/). The password is in the email we sent you. Please respect the following nomenclature **pos_LASTNAME_firstname.pdf** for the poster and **pres_LASTNAME_firstname.pdf** for the presentation.
+
+
+## Presentation
+You also need to prepare at least one slide for a 3 minutes presentation and upload it [here](https://drive.uca.fr/u/d/165f51bbf9ec46308243/) before the **17th of June**.
+
+## Pre-Register
+
+We are inviting you to complete the [survey](https://framaforms.org/participation-aux-journees-scientifiques-des-doctorants-1652653658)
+as soon as possible (estimated time: 2 minutes) for the pre-registration process. 
+
 
 
 ## Prize
@@ -36,27 +41,31 @@ jsd-edspi.dred@uca.fr
 
 ### Organisers (Alphabetical Order Name)
 
-- Frédéric A. HAYEK (Ph.D in Cybersercurity from LIMOS)
-- Guillaume FOIN (Ph.D in Energy)
-- Hélène Tran (Ph.D. in AI from LIMOS)
-- Ivan Luca BRAN COSTA(Ph.D in Information from Institute Pascal)
-- Mincui LIANG (Ph.D. in Power Electronic from Institute Pascal)
+- Frédéric A. HAYEK (Ph.D candidate in Cybersercurity from LIMOS)
+- Guillaume FOIN (Ph.D candidate in Energy)
+- Hélène TRAN (Ph.D. candidate in Artificial Intelligence from LIMOS)
+- Ivan Luca BRAN COSTA (Ph.D candidate in Information from Institute Pascal)
+- Mincui LIANG (Ph.D. candidatein Power Electronic from Institute Pascal)
 
 ### FAQ
 
-**1.Can I make many slides for the presentation?**
+**1. Can I make many slides for the presentation?**
 
-After consultation, we finally decided to allow the possibility of making several slides for the 3 minutes presentation.
+Yes.
 
-**2.I am not in Clermont-Ferrand, can I make my presentation remotely?**
+**2. I am not in Clermont-Ferrand, can I make my presentation remotely?**
 
 It is strongly recommended to come in person to make your presentation and discuss with other people around your poster. It is also an opportunity to meet other PhD students in a friendly environment and to discover our beautiful region of Clermont-Ferrand! However, the doctoral school does not finance transportation and accommodation costs (unless you are based abroad, in which case you should contact us).
 
-**3.I am in my first year and I do not have any results. Can I still participate?**
+**2. I will not be available on June 21 or 22. What can I do?**
 
-Absolutely, we even recommend participating in the first year. Remember that one of the goals of the Scientific Days is to have an overview of the thesis topics within the doctoral school to encourage exchange. You can find examples at the following link to help you make your [poster](https://spi.ed.uca.fr/inscription-obligations/obligations/journee-scientifique-de-led-spi).
+You can do your presentation next year (as long as you are still a PhD student!).
 
-**4.Will there be prizes?**
+**4. I am in my first year and I do not have any results. Can I still participate?**
+
+Absolutely, we even recommend participating in the first year. Remember that one of the goals of the Scientific Days is to have an overview of the thesis topics within the doctoral school to encourage exchange.
+
+**5. Will there be prizes?**
 
 Yes! We are planning to give prizes for the best poster and the best presentation. To be eligible for the best presentation prize, you must not exceed 3 minute presentation.
 
