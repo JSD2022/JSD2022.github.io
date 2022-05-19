@@ -35,11 +35,7 @@ We are in charge of printing the posters. The poster must be sent to us before t
 
 ## FAQ
 
-**1. Can I make many slides for the presentation?**
-
-Yes.
-
-**2. I am not in Clermont-Ferrand, can I make my presentation remotely?**
+**1. I am not in Clermont-Ferrand, can I make my presentation remotely?**
 
 It is strongly recommended to come in person to make your presentation and discuss with other people around your poster. It is also an opportunity to meet other PhD students in a friendly environment and to discover our beautiful region of Clermont-Ferrand! However, the doctoral school does not finance transportation and accommodation costs (unless you are based abroad, in which case you should contact us).
 
@@ -47,22 +43,29 @@ It is strongly recommended to come in person to make your presentation and discu
 
 You can do your presentation next year (as long as you are still a PhD student!).
 
-**4. I am in my first year and I do not have any results. Can I still participate?**
+**3. I am in my first year and I do not have any results. Can I still participate?**
 
 Absolutely, we even recommend participating in the first year. Remember that one of the goals of the Scientific Days is to have an overview of the thesis topics within the doctoral school to encourage exchange.
 
-**5. Will there be prizes?**
+**4. I am in my third year and I am not able to attend the Scientific Days. What can I do?**
+
+The attendance for you is not compulsory. Please contact Youcef Mezouar (youcef.mezouar@uca.fr) with Dominique Torrisani in copy (dominique.torrisani@uca.fr) to make them aware of your situation.
+
+**5. Can I make many slides for the presentation?**
+
+Yes.
+
+**6. Will there be prizes?**
 
 Yes! We are planning to give prizes for the best poster and the best presentation. To be eligible for the best presentation prize, you must not exceed 3 minute presentation.
 
 
-
-## Support
-
-### Contact
+## Contact
 jsd-edspi.dred@uca.fr
 
-### Organisers (Alphabetical Order Name)
+## Organisers 
+
+In alphabetical order name:
 
 - Frédéric A. HAYEK (Ph.D candidate in Cryptology from LIMOS)
 - Guillaume FOIN (Ph.D candidate in Energy from Institut Pascal)
