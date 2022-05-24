@@ -1,6 +1,6 @@
 # Journées Scientifiques des Doctorants SPI 2022
 
-<img align="center" src="logo_spi.png">
+<img align="center" src="Logo-JSD.png">
 
 Welcome to Journées Scientifiques des Doctorants SPI 2022! This annual meeting is an opportunity to discover the various thesis topics within our doctoral school, to exchange with other PhD students working on the same topics as you (or topics that arouse your curiosity) and, perhaps, to lead to collaborations and/or friendships. Several speakers will be invited during these two days: some of them will present the possible career perspectives after a PhD. We will reveal more about the program soon! 
 
@@ -18,7 +18,7 @@ as soon as possible (estimated time: 2 minutes) for the pre-registration process
 
 ### Poster acknowledgements
 
-The poster must indicate **your funding organization** and mention **"Ecole Doctorale des Sciences pour l'Ingénieur"**. The [logo of Clermont Auvergne INP UCA](INP.JPG) must also appear in your poster.
+The poster must indicate **your funding organization** and mention **"Ecole Doctorale des Sciences pour l'Ingénieur"**. The [logo of Clermont Auvergne INP UCA](logo-CA-INP.png) must also appear in your poster.
 
 ### Poster and presentation submission
 
