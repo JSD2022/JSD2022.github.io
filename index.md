@@ -8,7 +8,7 @@ Note that attending the Scientific Days at least one time is part of the require
 
 ## Conference program
 
-The conference program is released. Please check [here](JSD-SPI22_program.pdf) to find the information about your time slot for the presentation and other activities. 
+The conference program is released. Please check [here](JSD-SPI programme V.01.pdf) to find the information about your time slot for the presentation and other activities. 
 
 ### The first day : 21/06/2022 (09:00 to 17:00)
 - 09:15 - 09:25 : Welcome
