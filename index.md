@@ -6,6 +6,10 @@ Welcome to Journées Scientifiques des Doctorants SPI 2022! This annual meeting 
 
 Note that attending the Scientific Days at least one time is part of the requirement for obtaining your doctoral degree. To this end, you need to prepare a poster and slides for your 3-minute presentation. We strongly encourage you to come to meet the other PhD students and have a broad overview of the research topics within the doctoral school.
 
+# Conference Program
+The JSD conference program is updated. Please check [here]() and learn about your time slot for your presentation. 
+
+
 ## Important to read
 
 ### Dates and Place
