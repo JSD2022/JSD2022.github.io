@@ -8,7 +8,7 @@ Note that attending the Scientific Days at least one time is part of the require
 
 ## Conference program
 
-The conference program is released. Please check [here](JSD-SPI programme V.01.pdf) to find the information about your time slot for the presentation and other activities. 
+The conference program is released. Please check [here](JSD-SPI22_program1.pdf) to find the information about your time slot for the presentation and other activities. 
 
 ### Day 1 : 21/06/2022 (09:00 to 17:00)
 - 09:15 - 09:25 : Welcome
@@ -19,7 +19,7 @@ The conference program is released. Please check [here](JSD-SPI programme V.01.p
 - 11:10 - 11:40 : The second year PhD presentations
 - 11:40 - 12:10 : Poster #2 session
 - 12:10 - 14:00 : Lunch break
-- 14:00 - 14:40 : Keynote #2 - Careers in the industry - acques Berbey (President of IESF)
+- 14:00 - 14:40 : Keynote #2 - Careers in the industry - Jacques Berbey (President of IESF)
 - 14:40 - 15:10 : The first year PhD presentations
 - 15:10 - 15:40 : Poster #3 & Coffee break 
 - 15:40 - 16:20 : PhD presentations mix
