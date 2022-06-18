@@ -30,7 +30,7 @@ You need to upload the documents [in this link](https://drive.uca.fr/u/d/4d609ca
 
 Deadlines:
 - posters: **June 6th**
-- presentation: **June 17th**
+- presentation: Extended to **June 20th**
 
 ## Poster preparation
 
