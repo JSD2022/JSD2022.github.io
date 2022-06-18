@@ -10,6 +10,8 @@ Note that attending the Scientific Days at least one time is part of the require
 
 The conference program is released. Please check [here](JSD-SPI22_program.pdf) to find the information about your time slot for the presentation and other activities. 
 
+09:15 - 09:25 : Welcome
+
 ## Important to read
 
 ### Dates and Place
