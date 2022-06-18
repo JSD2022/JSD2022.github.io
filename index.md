@@ -10,7 +10,7 @@ Note that attending the Scientific Days at least one time is part of the require
 
 The conference program is released. Please check [here](JSD-SPI programme V.01.pdf) to find the information about your time slot for the presentation and other activities. 
 
-### The first day : 21/06/2022 (09:00 to 17:00)
+### Day 1 : 21/06/2022 (09:00 to 17:00)
 - 09:15 - 09:25 : Welcome
 - 09:25 - 09:55 : The first year PhD presentations
 - 09:55 - 10:00 : Clermont Auvergne INP Engineers and PhD Students Forum
@@ -25,7 +25,7 @@ The conference program is released. Please check [here](JSD-SPI programme V.01.p
 - 15:40 - 16:20 : PhD presentations mix
 - 16:20 - 16:50 : Poster #4 session
 
-### The second day : 22/06/2022 (09:00 to 17:00)
+### Day 2 : 22/06/2022 (09:00 to 17:00)
 - 09:30 - 10:00 : First year PhD presentations 
 - 10:00 - 10:05 : Clermont Auvergne INP Engineers and PhD Students Forum
 - 10:05 - 10:30 : Poster #1 session
