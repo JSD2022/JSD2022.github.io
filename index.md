@@ -45,7 +45,7 @@ The conference program is released. Please check [here](JSD-SPI22_program.pdf) t
 ### Important to read
 
 ### Dates and Place
-June 21st and 22nd 2022, at Pôle Commun
+June 21st and 22nd 2022, at Pôle Commun ISIMA/Polytech, Amphi 2
 
 ### Pre-Register
 
